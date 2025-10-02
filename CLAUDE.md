@@ -8,7 +8,7 @@ This is a single-page web application for calculating fuel subsidy savings in Ma
 
 ## Architecture
 
-**Single HTML File Structure**: The entire application is contained in `budi95-calculator.html` with inline CSS and JavaScript. There is no build process or external dependencies.
+**Single HTML File Structure**: The entire application is contained in `index.html` with inline CSS and JavaScript. There is no build process or external dependencies.
 
 **Key Components**:
 - **Pricing Constants** (lines 254-256): Three price points that drive all calculations
@@ -24,7 +24,7 @@ This is a single-page web application for calculating fuel subsidy savings in Ma
 
 ## Development
 
-**Running the Application**: Open `budi95-calculator.html` directly in any modern web browser. No server or build step required.
+**Running the Application**: Open `index.html` directly in any modern web browser. No server or build step required.
 
 **Testing Changes**: Refresh the browser after editing. Use browser DevTools console to debug JavaScript.
 

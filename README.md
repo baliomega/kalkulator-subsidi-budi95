@@ -16,7 +16,7 @@ Aplikasi ini membantu pengguna memahami berapa banyak wang yang mereka jimatkan 
 
 ## Cara Guna
 
-1. Buka fail `budi95-calculator.html` dalam pelayar web
+1. Buka fail `index.html` dalam pelayar web
 2. Masukkan jumlah bayaran dalam RM atau klik butang jumlah pantas
 3. Lihat hasil kiraan:
    - Liter yang anda dapat
@@ -37,7 +37,7 @@ Aplikasi ini membantu pengguna memahami berapa banyak wang yang mereka jimatkan 
 
 ## Pemasangan
 
-Tiada pemasangan diperlukan. Hanya muat turun fail `budi95-calculator.html` dan buka dalam pelayar web moden (Chrome, Firefox, Safari, Edge).
+Tiada pemasangan diperlukan. Hanya muat turun fail `index.html` dan buka dalam pelayar web moden (Chrome, Firefox, Safari, Edge).
 
 ## Kemaskini Harga
 
